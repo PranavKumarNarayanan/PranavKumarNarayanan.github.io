@@ -12,6 +12,8 @@
 
 <p style="text-align:center"><span style="font-size:26px"><a href="https://cockpit.empty-liger-78.telebit.io">Cockpit (Alternative Dashboard)</a></span></p>
 
+<p style="text-align:center"><span style="font-size:26px"><a href="terminal.empty-liger-78.telebit.io">Terminal (WeTTY)</a></span></p>
+
 <pre>
 <code class="language-bash">https://empty-liger-78.telebit.io    #Default Domain
 telebit http &lt;port_numer&gt; &lt;subdomain_arg&gt;     #Use in code to expose more ports through the tunnel</code></pre>
