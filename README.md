@@ -8,7 +8,7 @@
 
 <p style="text-align:center"><span style="font-size:26px"><a href="https://portainer.empty-liger-78.telebit.io">Portainer-Dashboard</a></span></p>
 
-<p style="text-align:center"><span style="font-size:26px"><a href="https://insiders.vscode.dev/tunnel/homevault">Code Server</a></span></p>
+<p style="text-align:center"><span style="font-size:26px"><a href="https://insiders.vscode.dev/+ms-vscode.remote-server/spkvault">Code Server</a></span></p>
 
 <p style="text-align:center"><span style="font-size:26px"><a href="https://cockpit.empty-liger-78.telebit.io">Cockpit (Alternative Dashboard)</a></span></p>
 
