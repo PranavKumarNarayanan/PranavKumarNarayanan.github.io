@@ -4,6 +4,8 @@
 
 <p style="text-align:center"><span style="font-size:26px"><a href="https://nextcloud.empty-liger-78.telebit.io">Nextcloud</a></span></p>
 
+<p style="text-align:center"><span style="font-size:26px"><a href="https://owncloud.empty-liger-78.telebit.io/login">OwnCloud</a></span></p>
+
 <p style="text-align:center"><span style="font-size:26px"><a href="https://files.empty-liger-78.telebit.io">File Browser</a></span></p>
 
 <p style="text-align:center"><span style="font-size:26px"><a href="https://portainer.empty-liger-78.telebit.io">Portainer-Dashboard</a></span></p>
