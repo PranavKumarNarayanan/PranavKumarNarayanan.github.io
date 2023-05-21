@@ -1,6 +1,8 @@
 <p style="text-align:center"><span style="font-size:48px"><u><strong>Pranav&#39;s Home Vault</strong></u></span></p>
 
-<p style="text-align:center"><span style="font-size:26px"><a href="https://dash.empty-liger-78.telebit.io">Dashboard</a></span></p>
+<p style="text-align:center"><span style="font-size:26px"><a href="https://chat.empty-liger-78.telebit.io">Chat Server</a></span></p>
+
+<p style="text-align:center"><span style="font-size:26px"><a href="https://nextcloud.empty-liger-78.telebit.io">Nextcloud</a></span></p>
 
 <p style="text-align:center"><span style="font-size:26px"><a href="https://nextcloud.empty-liger-78.telebit.io">Nextcloud</a></span></p>
 
