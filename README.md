@@ -10,5 +10,5 @@
 
 <p style="text-align:center"><span style="font-size:26px"><a href="https://portainer.evil-rattlesnake-82.telebit.io/">Portainer-Dashboard</a></span></p>
 <pre>
-<code class="language-bash">https://hot-stingray-62.telebit.io    #Default Domain
+<code class="language-bash">https://evil-rattlesnake-82.telebit.io    #Default Domain
 telebit http &lt;port_numer&gt; &lt;subdomain_arg&gt;     #Use in code to expose more ports through the tunnel</code></pre>
