@@ -4,6 +4,8 @@
 
 <p style="text-align:center"><span style="font-size:26px"><a href="https://workbench.evil-rattlesnake-82.telebit.io/">Workbench</a></span></p>
 
+<p style="text-align:center"><span style="font-size:26px"><a href="https://chat.evil-rattlesnake-82.telebit.io/">Chat</a></span></p>
+
 <p style="text-align:center"><span style="font-size:26px"><a href="https://terminal.evil-rattlesnake-82.telebit.io/">Terminal</a></span></p>
 
 <p style="text-align:center"><span style="font-size:26px"><a href="https://nextcloud.evil-rattlesnake-82.telebit.io/">Nextcloud</a></span></p>
